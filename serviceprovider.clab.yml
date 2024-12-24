@@ -1,4 +1,4 @@
-name: vpls-full-mesh
+name: serviceprovider
 
 topology:
   nodes:
